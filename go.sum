@@ -1,0 +1,6 @@
+github.com/kljensen/snowball v0.8.0 h1:WU4cExxK6sNW33AiGdbn4e8RvloHrhkAssu2mVJ11kg=
+github.com/kljensen/snowball v0.8.0/go.mod h1:OGo5gFWjaeXqCu4iIrMl5OYip9XUJHGOU5eSkPjVg2A=
+github.com/mattn/go-sqlite3 v1.14.18 h1:JL0eqdCOq6DJVNPSvArO/bIV9/P7fbGrV00LZHc+5aI=
+github.com/mattn/go-sqlite3 v1.14.18/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+golang.org/x/net v0.18.0 h1:mIYleuAkSbHh0tCv7RvjL3F6ZVbLjq4+R7zbOn3Kokg=
+golang.org/x/net v0.18.0/go.mod h1:/czyP5RqHAH4odGYxBJ1qz0+CE5WZ+2j1YgoEo8F2jQ=
