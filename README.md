@@ -20,12 +20,12 @@ Aura is an efficient search engine designed to deliver fast and accurate results
 
 
 ## Install Packages
-```go get github.com/kljensen/snowball```
-```go get github.com/mattn/go-sqlite3```
+```go get github.com/kljensen/snowball```<br>
+```go get github.com/mattn/go-sqlite3```<br>
 ```go get golang.org/x/net```
 
 
-### :hammer_and_wrench: Languages and Tools :
+## Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="sql" width="40" height="40"/>&nbsp;
