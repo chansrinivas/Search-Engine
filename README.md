@@ -9,6 +9,30 @@ Aura is an efficient search engine designed to deliver fast and accurate results
 
 
 ## Key Features
++ Unigram Word Search
++ Bigram Word Search
++ Image Search
++ Wildcard Search
 
-## Technologies Used
+
+## Clone the Repository
+```git clone https://github.com/chansrinivas/Search-Engine.git```
+
+
+## Install Packages
+```go get github.com/kljensen/snowball```
+```go get github.com/mattn/go-sqlite3```
+```go get golang.org/x/net```
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="sql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+
+
+</div>
 
