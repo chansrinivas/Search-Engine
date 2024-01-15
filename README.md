@@ -1,7 +1,7 @@
 #  Search Engine - "Aura" 🪄🔍
 
 ## Overview
-Aura is an efficient search engine designed to deliver fast and accurate results. It uses Information Retrieval techniques like TF-IDF scores for relevance ranking, wildcard searches, indexing and word stemming.
+Aura is an efficient search engine designed to deliver fast and accurate results. It uses Information Retrieval techniques like TF-IDF scores for relevance ranking, wildcard searches, indexing and word stemming. Concurrent programming - goroutines, channels, etc. helped achieve efficiency.
 
 <p align="center">
   <img src="./aura-photo.png" alt="Aura Screenshot" width="600">
